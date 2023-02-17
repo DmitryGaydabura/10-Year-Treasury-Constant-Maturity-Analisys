@@ -40,7 +40,7 @@ plt.show()
 
 
     
-![png](output_4_0.png)
+![png](img/output_4_0.png)
     
 
 
@@ -60,7 +60,7 @@ plt.show()
 
 
     
-![png](output_7_0.png)
+![png](img/output_7_0.png)
     
 
 
@@ -92,13 +92,13 @@ plt.show()
 
 
     
-![png](output_10_1.png)
+![png](img/output_10_1.png)
     
 
 
 
     
-![png](output_10_2.png)
+![png](img/output_10_2.png)
     
 
 
@@ -151,7 +151,7 @@ plt.show()
 
 
     
-![png](output_12_1.png)
+![png](img/output_12_1.png)
     
 
 
@@ -172,7 +172,7 @@ plt.show()
 
 
     
-![png](output_13_1.png)
+![png](img/output_13_1.png)
     
 
 
@@ -218,20 +218,7 @@ for param in pdq:
 print("Best (p,d,q) values:", best_pdq)
 ```
 
-    C:\Users\Dmitry\AppData\Local\Programs\Python\Python310\lib\site-packages\statsmodels\tsa\statespace\sarimax.py:966: UserWarning: Non-stationary starting autoregressive parameters found. Using zeros as starting parameters.
-      warn('Non-stationary starting autoregressive parameters'
-    C:\Users\Dmitry\AppData\Local\Programs\Python\Python310\lib\site-packages\statsmodels\tsa\statespace\sarimax.py:966: UserWarning: Non-stationary starting autoregressive parameters found. Using zeros as starting parameters.
-      warn('Non-stationary starting autoregressive parameters'
-    C:\Users\Dmitry\AppData\Local\Programs\Python\Python310\lib\site-packages\statsmodels\tsa\statespace\sarimax.py:966: UserWarning: Non-stationary starting autoregressive parameters found. Using zeros as starting parameters.
-      warn('Non-stationary starting autoregressive parameters'
-    C:\Users\Dmitry\AppData\Local\Programs\Python\Python310\lib\site-packages\statsmodels\tsa\statespace\sarimax.py:966: UserWarning: Non-stationary starting autoregressive parameters found. Using zeros as starting parameters.
-      warn('Non-stationary starting autoregressive parameters'
-    C:\Users\Dmitry\AppData\Local\Programs\Python\Python310\lib\site-packages\statsmodels\tsa\statespace\sarimax.py:966: UserWarning: Non-stationary starting autoregressive parameters found. Using zeros as starting parameters.
-      warn('Non-stationary starting autoregressive parameters'
-    C:\Users\Dmitry\AppData\Local\Programs\Python\Python310\lib\site-packages\statsmodels\base\model.py:604: ConvergenceWarning: Maximum Likelihood optimization failed to converge. Check mle_retvals
-      warnings.warn("Maximum Likelihood optimization failed to "
-    C:\Users\Dmitry\AppData\Local\Programs\Python\Python310\lib\site-packages\statsmodels\base\model.py:604: ConvergenceWarning: Maximum Likelihood optimization failed to converge. Check mle_retvals
-      warnings.warn("Maximum Likelihood optimization failed to "
+
     
 
     Best (p,d,q) values: (2, 1, 1)
@@ -284,7 +271,7 @@ plt.show()
 
 
     
-![png](output_16_1.png)
+![png](img/output_16_1.png)
     
 
 
@@ -294,7 +281,7 @@ plt.show()
 
 
     
-![png](output_16_3.png)
+![png](img/output_16_3.png)
     
 
 
